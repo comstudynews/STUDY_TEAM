@@ -1,0 +1,4 @@
+npm install
+npm install package
+npm install express@4
+npm install -g nodemon
